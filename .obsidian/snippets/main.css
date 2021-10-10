@@ -1,0 +1,24 @@
+body {
+  	font-family: "JetBrains Mono" !important;
+  	font-size: 16px;
+}
+
+pre code, .markdown-preview-view code 
+{
+  font-family: "JetBrains Mono" !important;
+}
+
+.markdown-preview-view {
+  	font-family: "Helvetica Neue";
+}
+
+.view-header-title {
+  font-size: 15px;
+}
+
+/*.titlebar, .titlebar-inner
+{
+  background-color: var(--base2);
+  color: var(--base00);
+}
+*/
