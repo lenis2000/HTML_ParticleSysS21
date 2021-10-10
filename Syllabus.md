@@ -4,6 +4,8 @@
 
 [[Course abstract]]
 
+[Course abstract](https://github.com/lenis2000/HTML_ParticleSysS21/blob/main/Course%20abstract.md)
+
 ## Meeting times 
 
 **Mondays and Wednesdays 3:30pm - 4:45pm**, Charlottesville time. See the [[Main|main course page]] for the calendar schedule.
