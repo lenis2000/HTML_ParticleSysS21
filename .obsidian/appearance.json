@@ -1,9 +1,0 @@
-{
-  "theme": "moonstone",
-  "enabledCssSnippets": [
-    "fontJetBrains",
-    "main"
-  ],
-  "cssTheme": "",
-  "baseFontSize": 16
-}
