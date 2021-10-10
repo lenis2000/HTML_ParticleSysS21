@@ -12,8 +12,6 @@ The zoom link is in collab. Please email me ([lenia.petrov@gmail.com](mailto:len
 
 ## Office hours
 
-[Zoom link](https://virginia.zoom.us/j/97901839515?pwd=T0xKaWRoRzhINml6UXBJNjJkZG1DUT09)
-
 Mondays 10-10:30, Wednesdays 9:30-10:00, or by appointment (you can make as many appointments as you like).
 
 ## Expectations and assessment
